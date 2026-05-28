@@ -53,4 +53,7 @@ body {
   gap: 1rem;
 }
 
+.emoji p {
+  order: 3;
+}
 
