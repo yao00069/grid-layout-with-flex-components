@@ -47,4 +47,10 @@ body {
   margin-bottom: 1rem;
 }
 
+.emojis {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+
 
